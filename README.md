@@ -10,7 +10,7 @@
 
 ### 💻 Site 
 
-- <strong>[Controle de Filmes](https://controlmovies.netlify.app/)</strong>
+- <strong>[Music Player](https://music-app-player.netlify.app/)</strong>
 
 
 ## 🚀 Tecnologias
