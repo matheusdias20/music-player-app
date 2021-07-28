@@ -2,7 +2,7 @@
 <p align="center">
   <strong>App desenvolvido como forma de estudo</strong>
   <br>
-  <span>Criado aplicativo de player de música, com música favorita de alguns artistas dos anos 70/80/90</span>
+  <span>Criado aplicativo de player de música, com minhas músicas favoritas de alguns artistas dos anos 70/80/90</span>
 </p>
 
 <p align="center">
