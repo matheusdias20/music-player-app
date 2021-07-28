@@ -5,7 +5,13 @@
   <span>Criado aplicativo de player de música, com música favorita de alguns artistas dos anos 70/80/90</span>
 </p>
 
+<p align="center">
+  <img src="img/home-light.jpeg" alt="">
+</p>
 
+<p align="center">
+  <img src="img/home-dark.jpeg" alt="">
+</p>
 
 
 ### 💻 Site 
